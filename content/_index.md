@@ -1,15 +1,15 @@
 +++
-title = "Modern Documentation Theme"
+title = "현대 리버싱 백과사전"
 
 
 # The homepage contents
 [extra]
-lead = '<b>AdiDoks</b> is a modern documentation theme, which is a port of the Hugo theme <a href="https://github.com/h-enk/">Doks</a> for Zola.'
+lead = '<b>Simples.kr</b>는 현대 리버싱 백과사전입니다. x86, arm 등등 다양한 아키텍쳐와 리버싱에 대해 다룹니다.'
 url = "/docs/getting-started/introduction/"
-url_button = "Get started"
-repo_version = "GitHub v0.1.0"
+url_button = "시작하기"
+repo_version = "깃허브에서 보기"
 repo_license = "Open-source MIT License."
-repo_url = "https://github.com/aaranxu/adidoks"
+repo_url = "https://github.com/lidarbtc/simples.kr"
 
 # Menu items
 [[extra.menu.main]]
