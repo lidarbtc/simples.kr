@@ -1,32 +1,4 @@
 +++
-title = "Privacy Policy"
-description = "We do not use cookies and we do not collect any personal data."
-date = 2021-05-01T08:00:00+00:00
-updated = 2020-05-01T08:00:00+00:00
-draft = false
-
-[extra]
-class = "page single"
-+++
-
-**TLDR**: We do not use cookies and we do not collect any personal data.
-
-## Website visitors
-
-- No personal information is collected.
-- No information is stored in the browser.
-- No information is shared with, sent to or sold to third-parties.
-- No information is shared with advertising companies.
-- No information is mined and harvested for personal and behavioral trends.
-- No information is monetized.
-
-## Contact us
-
-[Contact us](https://github.com/aaranxu/adidoks) if you have any questions.
-
-Effective Date: _1st May 2021_
-
-+++
 title = "개인정보 처리방침"
 description = "저희는 쿠키를 사용하지 않으며 어떠한 개인 데이터도 수집하지 않습니다."
 date = 2021-05-01T08:00:00+00:00
