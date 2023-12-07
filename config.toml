@@ -115,7 +115,7 @@ weight = 20
 
 # Footer contents
 [extra.footer]
-info = '사랑으로 만들어졌습니다.'
+info = '사랑으로 만들어졌습니다. ❤️'
 
 [[extra.footer.nav]]
 name = "Privacy"
