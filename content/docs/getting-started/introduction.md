@@ -1,5 +1,5 @@
 +++
-title = "Introduction"
+title = "소개"
 description = "AdiDoks is a Zola theme helping you build modern documentation websites, which is a port of the Hugo theme Doks for Zola."
 date = 2021-05-01T08:00:00+00:00
 updated = 2021-05-01T08:00:00+00:00
@@ -14,9 +14,9 @@ toc = true
 top = false
 +++
 
-## Quick Start
+## 빠른 시작
 
-One page summary of how to start a new AdiDoks project. [Quick Start →](../quick-start/)
+Simples.kr의 간단한 요약입니다. [빠른 시작 →](../quick-start/)
 
 ## Go further
 
