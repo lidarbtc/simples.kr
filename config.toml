@@ -115,7 +115,7 @@ weight = 20
 
 # Footer contents
 [extra.footer]
-info = 'Powered by <a href="https://www.netlify.com/">Netlify</a>, <a href="https://www.getzola.org/">Zola</a>, and <a href="https://github.com/aaranxu/adidoks">AdiDoks</a>'
+info = '사랑으로 만들어졌습니다.'
 
 [[extra.footer.nav]]
 name = "Privacy"
