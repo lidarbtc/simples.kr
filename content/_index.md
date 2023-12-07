@@ -1,10 +1,10 @@
 +++
-title = "현대 리버싱 백과사전"
+title = "오픈소스 현대 리버싱 백과사전"
 
 
 # The homepage contents
 [extra]
-lead = '<b>Simples.kr</b>는 현대 리버싱 백과사전입니다. x86, arm 등등 다양한 아키텍쳐와 리버싱에 대해 다룹니다.'
+lead = '<b>Simples.kr</b>는 오픈 소스 현대 리버싱 백과사전입니다. x86, arm 등등 다양한 아키텍쳐와 리버싱에 대해 다룹니다.'
 url = "/docs/getting-started/introduction/"
 url_button = "시작하기"
 repo_version = "깃허브에서 보기"
