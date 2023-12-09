@@ -10,7 +10,7 @@ template = "blog/page.html"
 authors = ["Rustaceans"]
 
 [extra]
-lead = "IDA Pro (Interactive Disassembler Professional)는 고급 디스어셈블러 및 디버거로, 소프트웨어 역공학 분야에서 널리 사용됩니다. 이 글에서는 IDA Pro의 기본 사용법과 몇 가지 고급 기능에 대해 자세히 알아보겠습니다.
+lead = "IDA Pro (Interactive Disassembler Professional)는 고급 디스어셈블러 및 디버거로, 소프트웨어 역공학 분야에서 널리 사용됩니다. 이 글에서는 IDA Pro의 기본 사용법과 몇 가지 고급 기능에 대해 자세히 알아보겠습니다."
 +++
 
 ## 소개
